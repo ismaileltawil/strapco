@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ismaileltawil.github.io/strapco/sitemap.xml
+Sitemap: https://www.strapcoegypt.com/sitemap.xml

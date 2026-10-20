@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
-  <rect width="48" height="48" rx="8" fill="#12303f"/>
-  <g fill="none" stroke="#8fc0e6">
-    <circle cx="24" cy="24" r="18" stroke-width="3"/>
-    <circle cx="24" cy="24" r="12" stroke-width="3"/>
-    <circle cx="24" cy="24" r="6" stroke-width="3"/>
-    <circle cx="24" cy="24" r="2.2" fill="#8fc0e6" stroke="none"/>
+  <style>
+    g { stroke: #111316; }
+    @media (prefers-color-scheme: dark) { g { stroke: #ffffff; } }
+  </style>
+  <g fill="none">
+    <circle cx="24" cy="24" r="21.25" stroke-width="5"/>
+    <circle cx="24" cy="24" r="12.5" stroke-width="4.5"/>
+    <circle cx="24" cy="24" r="4.75" stroke-width="4"/>
   </g>
 </svg>
